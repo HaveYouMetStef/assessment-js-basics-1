@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "Using software to track changes in a file. "
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = 'A version control platform used to collaborate with teammates using git.'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+const gitInitDefinition = 'git init command, used to create a new git repository or reinitialize an exisiting repository.'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+const gitCloneDefinition = 'git clone command, used to create a copy of a targeted or current repository.'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+const gitStatusDefinition = 'git status command, used to show the current directory that you are working on.'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+const gitAddDefinition = 'git add command, that adds a change to your current repo, basically saying that you want to update your repo.'
+const gitAddCode = 'The code to add all files.'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@
 */
 
 //CODE HERE
-
+const gitCommitDefinition = 'git comit command, used to revise a change to a file or set of files.'
+const gitCommitCode = 'The code to commit using the message "initial commit."' 
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = 'git push command, used to upload a local repo to a remote repo'
