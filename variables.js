@@ -3,12 +3,11 @@
 
 //CODE HERE 
 const myName = 'Stef Castillo'
-console.log(myName)
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
 //CODE HERE
-
+const faveNum = 11
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
