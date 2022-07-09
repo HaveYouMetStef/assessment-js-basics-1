@@ -10,7 +10,7 @@ const myName = 'Stef Castillo'
 const faveNum = 11
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
-
+const lovesCode = true 
 //CODE HERE
 
 //////////////////PROBLEM 4////////////////////
